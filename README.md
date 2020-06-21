@@ -5,6 +5,7 @@ This repository contains 27 data science projects that I have completed. The pro
 
 ## Data Analysis and Visualization
 
+Clean and Analyze Employee Exit Surveys
 
 ## Data Engineering
 
