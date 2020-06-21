@@ -8,6 +8,7 @@ This repository contains 27 data science projects that I have completed. The pro
 
 ## Data Engineering
 
+Designing and Creating a Database
 
 ## Python 
 
