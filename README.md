@@ -7,6 +7,8 @@ This repository contains 27 data science projects that I have completed. The pro
 
 Clean and Analyze Employee Exit Surveys
 
+Visualizing Earnings Based on College Majors
+
 ## Data Engineering
 
 Designing and Creating a Database
