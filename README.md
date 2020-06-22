@@ -9,10 +9,11 @@ Clean and Analyze Employee Exit Surveys
 
 Visualizing Earnings Based on College Majors
 
+`Python`
+
 ## Data Engineering
 
 Designing and Creating a Database
-
-## Python 
+ 
 
 
