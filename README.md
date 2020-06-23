@@ -7,6 +7,10 @@ This repository contains 27 data science projects that I have completed. The pro
 
 Clean and Analyze Employee Exit Surveys
 
+Exploring Hacker News Posts
+
+`Python` `Pandas`
+
 Visualizing Earnings Based on College Majors
 
 `Python`
