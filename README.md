@@ -6,7 +6,8 @@ This repository contains 27 data science projects that I have completed. The pro
 ## Data Analysis and Visualization
 
 Profitable Google Play and Apple App Profiles
-`Pytohn`
+
+`Python`
 
 Clean and Analyze Employee Exit Surveys
 
