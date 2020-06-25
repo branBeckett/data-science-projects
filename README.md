@@ -9,11 +9,11 @@ Profitable Google Play and Apple App Profiles
 
 `Python`
 
-Clean and Analyze Employee Exit Surveys
-
 Exploring Hacker News Posts
 
 `Python` `Pandas`
+
+Clean and Analyze Employee Exit Surveys
 
 Visualizing Earnings Based on College Majors
 
