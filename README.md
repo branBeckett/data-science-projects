@@ -11,7 +11,7 @@ Profitable Google Play and Apple App Profiles
 
 Exploring Hacker News Posts
 
-`Python` `Pandas`
+`Python`
 
 Clean and Analyze Employee Exit Surveys
 
@@ -28,6 +28,8 @@ Analyzing CIA Factbook Data
 `SQL`
 
 ## Data Engineering
+
+Building Fast Queries on a CSV
 
 Designing and Creating a Database
  
