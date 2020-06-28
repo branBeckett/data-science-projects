@@ -6,25 +6,25 @@ This repository contains 31 data science projects that I have completed. These p
 
 ## Data Analysis and Visualization
 
-**Profitable Google Play and Apple App Profiles**
+    **Profitable Google Play and Apple App Profiles**
 
-`Python`
+    `Python`
 
-**Exploring Hacker News Posts**
+    **Exploring Hacker News Posts**
 
-`Python`
+    `Python`
 
-**Exploring eBay Car Sales**
+    **Exploring eBay Car Sales**
 
-**Visualizing Earnings Based on College Majors**
+    **Visualizing Earnings Based on College Majors**
 
-**Visualizing the Gender Gap in College Degrees**
+    **Visualizing the Gender Gap in College Degrees**
 
-**Clean and Analyze Employee Exit Surveys**
+    **Clean and Analyze Employee Exit Surveys**
 
-**Analyzing NYC High School Data**
+    **Analyzing NYC High School Data**
 
-**Star Wars Survey**
+    **Star Wars Survey**
 
 
 ## Working with Data Sources
