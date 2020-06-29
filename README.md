@@ -10,11 +10,13 @@ This repository contains 31 data science projects that I have completed. These p
 
 `Python`
 
-[Exploring Hacker News Posts](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
+[**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
 `Python`
 
-**Exploring eBay Car Sales**
+[**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/exploring-ebay-car-sales-data.ipynb)
+
+`Python`
 
 **Visualizing Earnings Based on College Majors**
 
