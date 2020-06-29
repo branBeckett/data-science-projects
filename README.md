@@ -10,7 +10,7 @@ This repository contains 31 data science projects that I have completed. These p
 
 `Python`
 
-**Exploring Hacker News Posts**
+[Exploring Hacker News Posts](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
 `Python`
 
