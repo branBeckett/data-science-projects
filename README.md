@@ -7,6 +7,7 @@ This repository contains 31 data science projects that I have completed. These p
 ## Data Analysis and Visualization
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
+
 Description of the project here.
 
 `Python`
