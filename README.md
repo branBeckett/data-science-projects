@@ -6,11 +6,11 @@ This repository contains 31 data science projects that I have completed. These p
 
 ## Data Analysis and Visualization
 
-[**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
+- [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
 `Python`
 
-[**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
+- [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
 `Python`
 
@@ -18,13 +18,13 @@ This repository contains 31 data science projects that I have completed. These p
 
 `Python`
 
-**Visualizing Earnings Based on College Majors**
+[**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
-**Visualizing the Gender Gap in College Degrees**
+[**Visualizing the Gender Gap in College Degrees**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-gender-gap/visualizing-gender-gap.ipynb)
 
-**Clean and Analyze Employee Exit Surveys**
+[**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
 
-**Analyzing NYC High School Data**
+[**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
 **Star Wars Survey**
 
