@@ -28,7 +28,7 @@ Description of the project here.
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
-**Star Wars Survey**
+[**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survery.ipynb)
 
 
 ## Working with Data Sources
@@ -43,6 +43,7 @@ Description of the project here.
 
 **Popular Data Science Questions**
 
+`SQL`
 
 ## Probability and Statistics
 
