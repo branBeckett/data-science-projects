@@ -33,7 +33,7 @@ Description of the project here.
 
 ## Working with Data Sources
 
-**Analyzing CIA Factbook Data**
+[**Analyzing CIA Factbook Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/cia-factbook-data/cia-factbook-data.ipynb)
 
 `SQL`
 
