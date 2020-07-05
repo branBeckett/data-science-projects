@@ -37,7 +37,7 @@ Description of the project here.
 
 `SQL`
 
-**Answering Business Questions**
+[**Answering Business Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-business-questions/answering-business-questions.ipynb)
 
 `SQL`
 
