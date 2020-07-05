@@ -41,7 +41,7 @@ Description of the project here.
 
 `SQL`
 
-**Popular Data Science Questions**
+[**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-data-science-questions/answering-data-science-questions.ipynb)
 
 `SQL`
 
