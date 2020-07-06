@@ -47,7 +47,7 @@ Description of the project here.
 
 ## Probability and Statistics
 
-**Investigating Fandango Movie Ratings**
+[**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-portfolio/tree/master/fandango-movie-ratings)
 
 **Finding the Best Markets to Advertise In**
 
