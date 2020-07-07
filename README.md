@@ -49,9 +49,9 @@ Description of the project here.
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-portfolio/tree/master/fandango-movie-ratings)
 
-**Finding the Best Markets to Advertise In**
+[**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
 
-**Mobile App for Lottery Addiction**
+[**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
 
 **Building a Spam Filter with Naive Bayes**
 
