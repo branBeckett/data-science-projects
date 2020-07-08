@@ -53,14 +53,14 @@ Description of the project here.
 
 [**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
 
-**Building a Spam Filter with Naive Bayes**
+[**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-portfolio/tree/master/spam-filter)
 
-**Winning Jeopardy**
+[**Winning Jeopardy**](https://github.com/branBeckett/data-science-portfolio/tree/master/winning-jeopardy)
 
 
 ## Machine Learning
 
-**Predicting Car Prices**
+[**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
 
 **Predicting House Sale Prices**
 
