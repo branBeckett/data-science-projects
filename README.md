@@ -62,11 +62,11 @@ Description of the project here.
 
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
 
-**Predicting House Sale Prices**
+[**Predicting House Sale Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/house-sale-prices/house-sale-prices.ipynb)
 
-**Predicting the Stock Market**
+[**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
 
-**Predicting Bike Rentals**
+[**Predicting Bike Rentals**](https://github.com/branBeckett/data-science-portfolio/blob/master/bike-rentals/bike-rentals.ipynb)
 
 
 ## Deep Learning
