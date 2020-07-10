@@ -71,14 +71,14 @@ Description of the project here.
 
 ## Deep Learning
 
-**Building a Handwritten Digits Classifier**
+[**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
     
     
 ## Other
 
 **Creating a Kaggle Workflow**
 
-**Investigating Airplane Accidents**
+[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
 
     
 ## Data Engineering
