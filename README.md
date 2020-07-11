@@ -76,7 +76,7 @@ Description of the project here.
     
 ## Other
 
-**Creating a Kaggle Workflow**
+[**Creating a Kaggle Workflow**](https://github.com/branBeckett/data-science-portfolio/blob/master/kaggle-workflow/kaggle-workflow.ipynb)
 
 [**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
 
@@ -85,13 +85,13 @@ Description of the project here.
 
 **Building Fast Queries on a CSV**
 
-**Building a Database for Crime Reports**
+[**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
-**Practice Optimizing Dataframes and Processing in Chunks**
+[**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
 
 **Analyzing Startup Fundraising Deals from Crunchbase**
 
-**Analyzing Wikipedia Pages**
+[**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
 **Analyzing Stock Prices**
 
