@@ -16,9 +16,9 @@ Description of the project here.
 
 `Python`
 
-[**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/exploring-ebay-car-sales-data.ipynb)
+[**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
-`Python`
+`Python` `Pandas`
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
