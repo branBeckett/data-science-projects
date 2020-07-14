@@ -22,9 +22,15 @@ Description of the project here.
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
+`Python` `Pandas` `Matplotlib`
+
 [**Visualizing the Gender Gap in College Degrees**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-gender-gap/visualizing-gender-gap.ipynb)
 
+`Python` `Pandas` `Matplotlib`
+
 [**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
+
+`Python` `Pandas` `NumPy`
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
