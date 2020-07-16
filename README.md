@@ -36,6 +36,8 @@ Description of the project here.
 
 [**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survery.ipynb)
 
+`Python` `Pandas` `NumPy`
+
 
 ## Working with Data Sources
 
