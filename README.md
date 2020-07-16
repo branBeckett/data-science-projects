@@ -34,7 +34,7 @@ Description of the project here.
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
-[**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survery.ipynb)
+[**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survey.ipynb)
 
 `Python` `Pandas` `NumPy`
 
