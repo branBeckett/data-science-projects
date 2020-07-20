@@ -49,7 +49,7 @@ Description of the project here.
 
 `SQL`
 
-[**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-data-science-questions/answering-data-science-questions.ipynb)
+[**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/data-science-questions/data-science-questions.ipynb)
 
 `SQL`
 
