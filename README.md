@@ -1,7 +1,7 @@
 ### Brandon Beckett's
 # Data Science Portfolio
 
-This repository contains 31 data science projects that I have completed. These projects are meant to represent actual assignments that a data analyst, data scienctist, or data engineer would receive on the job.
+This repository contains 33 various data science projects that I have completed on my journey to becoming a data scientist. These projects are meant to represent actual assignments that a data analyst, data scienctist, or data engineer would receive on the job.
 
 
 ## Data Analysis and Visualization
@@ -34,11 +34,13 @@ Description of the project here.
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
-Looking at whether standardized tests like the SAT are unfair to certain groups. We'll investigate the correlations between SAT scores and certain demographics in New York City high schools.
+A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
 
 [**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survey.ipynb)
+
+Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
