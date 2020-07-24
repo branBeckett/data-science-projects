@@ -8,7 +8,7 @@ This repository contains 33 various data science projects that I have completed 
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
-Description of the project here.
+> Description of the project here.
 
 `Python`
 
@@ -34,7 +34,7 @@ Description of the project here.
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
-A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
+> A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
 
