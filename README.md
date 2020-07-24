@@ -10,7 +10,7 @@ This repository contains 33 various data science projects that I have completed 
 
 Description of the project here.
 
-> `Python`
+    `Python`
 
 [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
@@ -32,11 +32,13 @@ Description of the project here.
 
 `Python` `Pandas` `NumPy`
 
+---
+
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
 A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
 
-> `Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
+    `Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
 
 ---
 
@@ -45,6 +47,8 @@ A look at whether standardized tests like the SAT are unfair to certain demograp
 Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
+
+---
 
 
 ## Working with Data Sources
