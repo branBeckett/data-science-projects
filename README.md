@@ -34,6 +34,10 @@ Description of the project here.
 
 [**Analyzing NYC High School Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/nyc-high-school-data/nyc-high-school-data.ipynb)
 
+Looking at whether standardized tests like the SAT are unfair to certain groups. We'll investigate the correlations between SAT scores and certain demographics in New York City high schools.
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
+
 [**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survey.ipynb)
 
 `Python` `Pandas` `NumPy` `Matplotlib`
