@@ -10,23 +10,33 @@ This repository contains 33 various data science projects that I have completed 
 
 Description of the project here.
 
-    `Python`
+`Python`
+
+---
 
 [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
 `Python`
 
+---
+
 [**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
 `Python` `Pandas`
+
+---
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
 `Python` `Pandas` `Matplotlib`
 
+---
+
 [**Visualizing the Gender Gap in College Degrees**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-gender-gap/visualizing-gender-gap.ipynb)
 
 `Python` `Pandas` `Matplotlib`
+
+---
 
 [**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
 
@@ -38,7 +48,7 @@ Description of the project here.
 
 A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
 
-    `Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
+`Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
 
 ---
 
