@@ -6,6 +6,8 @@ This repository contains 33 various data science projects that I have completed 
 
 ## Data Analysis and Visualization
 
+---
+
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
 Description of the project here.
@@ -67,26 +69,41 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 `SQL`
 
+---
+
 [**Answering Business Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-business-questions/answering-business-questions.ipynb)
 
 `SQL`
+
+---
 
 [**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/data-science-questions/data-science-questions.ipynb)
 
 `SQL`
 
+---
+
 ## Probability and Statistics
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-portfolio/tree/master/fandango-movie-ratings)
 
+---
+
 [**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
+
+---
 
 [**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
 
+---
+
 [**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-portfolio/tree/master/spam-filter)
+
+---
 
 [**Winning Jeopardy**](https://github.com/branBeckett/data-science-portfolio/tree/master/winning-jeopardy)
 
+---
 
 ## Machine Learning
 
