@@ -107,41 +107,79 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 ## Machine Learning
 
+---
+
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
+
+---
 
 [**Predicting House Sale Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/house-sale-prices/house-sale-prices.ipynb)
 
+---
+
 [**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
 
+---
+
 [**Predicting Bike Rentals**](https://github.com/branBeckett/data-science-portfolio/blob/master/bike-rentals/bike-rentals.ipynb)
+
+---
 
 
 ## Deep Learning
 
+---
+
 [**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
+    
+---
     
     
 ## Other
 
+---
+
 [**Creating a Kaggle Workflow**](https://github.com/branBeckett/data-science-portfolio/blob/master/kaggle-workflow/kaggle-workflow.ipynb)
 
+---
+
 [**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
+
+---
 
     
 ## Data Engineering
 
+---
+
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
+
+---
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
+---
+
 [**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
+
+---
 
 [**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
+---
+
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
+
+---
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
+---
+
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
+---
+
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
+
+---
