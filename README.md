@@ -10,13 +10,15 @@ This repository contains 33 various data science projects that I have completed 
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
-Description of the project here.
+Analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
 
 `Python`
 
 ---
 
 [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
+
+Analysis on Ask HN and Show HN posts from Hacker News to determine what type of posts and at what time posts receive the most attention.
 
 `Python`
 
