@@ -6,8 +6,6 @@ This repository contains 33 various data science projects that I have completed 
 
 ## Data Analysis and Visualization
 
----
-
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
 Analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
@@ -109,8 +107,6 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 ## Machine Learning
 
----
-
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
 
 ---
@@ -130,12 +126,9 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 ## Deep Learning
 
----
-
 [**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
     
 ---
-    
     
 ## Other
 
@@ -151,8 +144,6 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
     
 ## Data Engineering
-
----
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
 
