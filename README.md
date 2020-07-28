@@ -67,7 +67,7 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 [**Analyzing CIA Factbook Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/cia-factbook-data/cia-factbook-data.ipynb)
 
-Explore a database from the CIA World Factbook that contains demographic information for every country.
+Exploration of the CIA World Factbook database that contains demographic information for every country.
 
 `SQL`
 
