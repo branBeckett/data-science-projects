@@ -93,6 +93,8 @@ Exploration of the CIA World Factbook database that contains demographic informa
 
 [**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
 
+A look into finding the two best markets to advertise an e-learning product in.
+
 ---
 
 [**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
