@@ -4,6 +4,7 @@
 This repository contains 33 various data science projects that I have completed on my journey to becoming a data scientist. These projects are meant to represent actual assignments that a data analyst, data scienctist, or data engineer would receive on the job.
 
 
+
 ## Data Analysis and Visualization
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
@@ -61,6 +62,7 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
+
 
 
 ## Working with Data Sources
@@ -127,6 +129,8 @@ Description
 
 ---
 
+
+
 ## Machine Learning
 
 ---
@@ -164,6 +168,7 @@ Description
 ---
 
 
+
 ## Deep Learning
 
 ---
@@ -175,7 +180,9 @@ Description
 `Python`
 
 ---
-    
+  
+  
+  
 ## Other
 
 ---
@@ -195,6 +202,7 @@ Description
 `Python`
 
 ---
+
 
     
 ## Data Engineering
