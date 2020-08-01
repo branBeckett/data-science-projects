@@ -89,49 +89,91 @@ Exploration of the CIA World Factbook database that contains demographic informa
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-portfolio/tree/master/fandango-movie-ratings)
 
+Description
+
+`Python`
+
 ---
 
 [**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
 
 A look into finding the two best markets to advertise an e-learning product in.
 
+`Python`
+
 ---
 
 [**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
+
+Description
+
+`Python`
 
 ---
 
 [**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-portfolio/tree/master/spam-filter)
 
+Description
+
+`Python`
+
 ---
 
 [**Winning Jeopardy**](https://github.com/branBeckett/data-science-portfolio/tree/master/winning-jeopardy)
+
+Description
+
+`Python`
 
 ---
 
 ## Machine Learning
 
+---
+
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
+
+Description
+
+`Python`
 
 ---
 
 [**Predicting House Sale Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/house-sale-prices/house-sale-prices.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Predicting Bike Rentals**](https://github.com/branBeckett/data-science-portfolio/blob/master/bike-rentals/bike-rentals.ipynb)
+
+Description
+
+`Python`
 
 ---
 
 
 ## Deep Learning
 
+---
+
 [**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
-    
+
+Description
+
+`Python`
+
 ---
     
 ## Other
@@ -140,43 +182,85 @@ A look into finding the two best markets to advertise an e-learning product in.
 
 [**Creating a Kaggle Workflow**](https://github.com/branBeckett/data-science-portfolio/blob/master/kaggle-workflow/kaggle-workflow.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
+
+Description
+
+`Python`
 
 ---
 
     
 ## Data Engineering
 
+---
+
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
+
+Description
+
+`Python`
 
 ---
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
+
+Description
+
+`Python`
 
 ---
 
 [**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
+
+Description
+
+`Python`
 
 ---
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
+Description
+
+`Python`
+
 ---
 
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
+
+Description
+
+`Python`
 
 ---
