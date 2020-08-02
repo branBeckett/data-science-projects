@@ -83,6 +83,8 @@ Exploration of the CIA World Factbook database that contains demographic informa
 
 [**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/data-science-questions/data-science-questions.ipynb)
 
+Determine what content a data science education company should create based on data from Data Science Stack Exchange.
+
 `SQL`
 
 ---
