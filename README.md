@@ -25,11 +25,15 @@ Analysis on Ask HN and Show HN posts from Hacker News to determine what type of 
 
 [**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
+Description
+
 `Python` `Pandas`
 
 ---
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
+
+Description
 
 `Python` `Pandas` `Matplotlib`
 
@@ -37,11 +41,16 @@ Analysis on Ask HN and Show HN posts from Hacker News to determine what type of 
 
 [**Visualizing the Gender Gap in College Degrees**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-gender-gap/visualizing-gender-gap.ipynb)
 
+Description
+
 `Python` `Pandas` `Matplotlib`
 
 ---
 
 [**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
+
+
+Description
 
 `Python` `Pandas` `NumPy`
 
