@@ -106,7 +106,7 @@ Determine what content a data science education company should create based on d
 
 Description
 
-`Python`
+`Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
