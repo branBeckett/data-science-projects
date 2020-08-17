@@ -187,7 +187,7 @@ Description
 
 [**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
 
-Description
+Build models that can classify handwritten digits. Explore image classification, observe the limitations of traditional machine learning models for image classification, and improve some neural networks for image classification.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
