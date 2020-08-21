@@ -201,7 +201,7 @@ Build models that can classify handwritten digits. Explore image classification,
 
 [**Creating a Kaggle Workflow**](https://github.com/branBeckett/data-science-portfolio/blob/master/kaggle-workflow/kaggle-workflow.ipynb)
 
-Going through all the steps necessary when attempting a Kaggle competition. Here we'll work with the most popular Kaggle competition for beginners and predict which passengers survived the sinking of the Titanic.
+A look at all the necessary steps when attempting a Kaggle competition. Here we'll work with the most popular Kaggle competition for beginners and predict which passengers survived the sinking of the Titanic.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
