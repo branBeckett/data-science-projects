@@ -223,7 +223,7 @@ Description
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -231,7 +231,7 @@ Description
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -239,7 +239,7 @@ Description
 
 [**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -247,7 +247,7 @@ Description
 
 [**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -255,7 +255,7 @@ Description
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -263,7 +263,7 @@ Description
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -271,7 +271,7 @@ Description
 
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
@@ -279,7 +279,7 @@ Description
 
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
 
-Description
+Currently in progress.
 
 `Python`
 
