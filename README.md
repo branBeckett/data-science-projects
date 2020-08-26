@@ -159,7 +159,7 @@ Description
 
 Description
 
-`Python`
+`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
 ---
 
