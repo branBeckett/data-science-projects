@@ -135,9 +135,9 @@ Description
 
 [**Winning Jeopardy**](https://github.com/branBeckett/data-science-portfolio/tree/master/winning-jeopardy)
 
-Description
+Perform hypothesis testing to see if there are any good potential strategies for winning Jeopardy.
 
-`Python`
+`Python` `Pandas` `NumPy` `Regex` `SciPy`
 
 ---
 
