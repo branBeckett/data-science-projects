@@ -1,5 +1,5 @@
 ### Brandon Beckett's
-# Data Science Portfolio
+# Data Science Projects
 
 This repository contains 33 various data science projects that I have completed on my journey to becoming a data scientist. These projects are meant to represent actual assignments that a data analyst, data scienctist, or data engineer would receive on the job.
 
