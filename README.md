@@ -233,7 +233,7 @@ Currently in progress.
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
-Currently in progress.
+Set up a database from scratch using Boston crime data.
 
 `Python`
 
