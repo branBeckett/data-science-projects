@@ -1,9 +1,7 @@
 ### Brandon Beckett's
 # Data Science Projects
 
-This repository contains 33 various data science projects that I have completed on my journey to becoming a data scientist. These projects are meant to represent actual assignments that a data analyst, data scienctist, or data engineer would receive on the job.
-
-
+This repository contains 31 data science, data analyst, and data engineering projects that I have completed in 2019 and 2020 to improve my skillset.
 
 
 ## Data Analysis and Visualization
