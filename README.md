@@ -101,9 +101,9 @@ Determine what content a data science education company should create based on d
 
 ## Probability and Statistics
 
-[**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-portfolio/tree/master/fandango-movie-ratings)
+[**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-projects/blob/master/fandango-movie-ratings/fandango-movie-ratings.ipynb)
 
-Description
+Analysis of movie ratings to determine whether or not Fandango has changed their biased rating system in 2016.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
