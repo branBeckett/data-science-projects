@@ -147,7 +147,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 
 ---
 
-[**Predicting Car Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/prediction-car-prices)
+[**Predicting Car Prices**](https://github.com/branBeckett/data-science-projects/blob/master/predicting-car-prices/predicting-car-prices.ipynb)
 
 Description
 
