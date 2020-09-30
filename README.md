@@ -111,9 +111,9 @@ Analysis of movie ratings to determine whether or not Fandango has changed their
 
 [**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
 
-A look into finding the two best markets to advertise an e-learning product in.
+An analysis to determine the best markets to advertise an e-learning product in.
 
-`Python`
+`Python` `Pandas` `Matplotlib` `Seaborn`
 
 ---
 
