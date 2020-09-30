@@ -125,7 +125,7 @@ Description
 
 ---
 
-[**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-portfolio/tree/master/spam-filter)
+[**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-projects/blob/master/building-spam-filter/building-spam-filter-with-naive-bayes.ipynb)
 
 Description
 
@@ -133,7 +133,7 @@ Description
 
 ---
 
-[**Winning Jeopardy**](https://github.com/branBeckett/data-science-portfolio/tree/master/winning-jeopardy)
+[**Winning Jeopardy**](https://github.com/branBeckett/data-science-projects/blob/master/winning-jeopardy/winning-jeopardy.ipynb)
 
 Perform hypothesis testing to see if there are any good potential strategies for winning Jeopardy.
 
