@@ -85,9 +85,9 @@ Exploration of the CIA World Factbook database that contains demographic informa
 
 [**Answering Business Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-business-questions/answering-business-questions.ipynb)
 
-Description
+Find the best content to write about for a company that creates data science books, online articles, videos, or interactive text-based platforms.
 
-`SQL`
+`Python` `SQL`
 
 ---
 
