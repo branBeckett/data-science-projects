@@ -24,7 +24,7 @@ Analysis on Ask HN and Show HN posts from Hacker News to determine what type of 
 
 [**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
-Description
+Analysis of used car listings from Germany's eBay Kleineanzeigen.
 
 `Python` `Pandas`
 
@@ -32,7 +32,7 @@ Description
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
-Description
+An exploration of earnings after college based on majors, and a look at some statistics for each major.
 
 `Python` `Pandas` `Matplotlib`
 
