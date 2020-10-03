@@ -40,7 +40,7 @@ An exploration of earnings after college based on majors, and a look at some sta
 
 [**Visualizing the Gender Gap in College Degrees**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-gender-gap/visualizing-gender-gap.ipynb)
 
-Description
+An exploration of the gender gap in college degrees across the US.
 
 `Python` `Pandas` `Matplotlib`
 
@@ -49,7 +49,7 @@ Description
 [**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
 
 
-Description
+An analysis of exit surveys from employees of the Department of Education, Training, and Employment (DEYE) and the Technical and Further Education Body (TAFE) of Quensland, Australia.
 
 `Python` `Pandas` `NumPy`
 
