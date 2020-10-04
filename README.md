@@ -149,7 +149,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-projects/blob/master/predicting-car-prices/predicting-car-prices.ipynb)
 
-Description
+In progress...
 
 `Python`
 
@@ -165,7 +165,7 @@ Explore ways to build and improve a linear regression model by working with hous
 
 [**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
 
-Description
+In progress...
 
 `Python`
 
@@ -173,7 +173,7 @@ Description
 
 [**Predicting Bike Rentals**](https://github.com/branBeckett/data-science-portfolio/blob/master/bike-rentals/bike-rentals.ipynb)
 
-Description
+Predict the number of bikes that people rent in a given hour by creating several machine learning models and evaluating their performance.
 
 `Python`
 
@@ -209,7 +209,7 @@ Build models that can classify handwritten digits. Explore image classification,
 
 [**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
 
-Description
+An analysis of airplane accident statistics to see if there are any patterns or common threads.
 
 `Python` 
 
