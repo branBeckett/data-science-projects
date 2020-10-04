@@ -1,7 +1,7 @@
 ### Brandon Beckett's
 # Data Science Projects
 
-This repository contains 31 data science, data analyst, and data engineering projects that I have completed in 2019 and 2020 to improve my skillset.
+This repository contains 31 data science, machine learning, and data engineering projects that I have completed in 2020.
 
 
 ## Data Analysis and Visualization
