@@ -127,7 +127,7 @@ Description
 
 [**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-projects/blob/master/building-spam-filter/building-spam-filter-with-naive-bayes.ipynb)
 
-Description
+Learn about the practical side of the multinominal Naive Bayes algorithm by building a spam filter for SMS messages that classifies new messages as spam or non-spam with an accuracy greater than 95%.
 
 `Python`
 
@@ -157,7 +157,7 @@ Description
 
 [**Predicting House Sale Prices**](https://github.com/branBeckett/data-science-portfolio/tree/master/house-sale-prices/house-sale-prices.ipynb)
 
-Description
+Explore ways to build and improve a linear regression model by working with housing data for the city of Ames, Iowa from 2006 to 2010.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
