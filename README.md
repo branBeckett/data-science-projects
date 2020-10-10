@@ -1,5 +1,4 @@
-### Brandon Beckett's
-# Data Science Projects
+# Brandon Beckett's Data Science Projects
 
 
 This repository contains 31 data science, machine learning, and data engineering projects that I have completed in 2020.
@@ -27,13 +26,13 @@ Analysis of Ask HN and Show HN posts from Hacker News to determine what type of 
 
 Analysis of used car listings from the German classifieds site eBay Kleineanzeigen.
 
-`Python` `Pandas`
+`Python` `Pandas` `NumPy`
 
 ---
 
 [**Visualizing Earnings Based on College Majors**](https://github.com/branBeckett/data-science-portfolio/blob/master/visualizing-earnings/visualizing-earnings.ipynb)
 
-An exploration of earnings after college based on majors, and a look at some statistics for each major.
+An exploration of earnings of individuals after graduation based on their college majors, and a look at some statistics for each major.
 
 `Python` `Pandas` `Matplotlib`
 
