@@ -6,6 +6,8 @@ This repository contains 31 data science, machine learning, and data engineering
 
 ## Data Analysis and Visualization
 
+---
+
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
 Analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
@@ -83,6 +85,8 @@ An analysis of airplane accident statistics to see if there are any patterns or 
 
 ## Working with Data Sources
 
+---
+
 [**Analyzing CIA Factbook Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/cia-factbook-data/cia-factbook-data.ipynb)
 
 Exploration of the CIA World Factbook database that contains demographic information for every country.
@@ -110,6 +114,8 @@ Determine what content a data science education company should create based on d
 
 
 ## Probability and Statistics
+
+---
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-projects/blob/master/fandango-movie-ratings/fandango-movie-ratings.ipynb)
 
