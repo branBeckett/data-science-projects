@@ -1,6 +1,7 @@
 ### Brandon Beckett's
 # Data Science Projects
 
+
 This repository contains 31 data science, machine learning, and data engineering projects that I have completed in 2020.
 
 
@@ -98,6 +99,16 @@ Determine what content a data science education company should create based on d
 `SQL`
 
 ---
+
+[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
+
+An analysis of airplane accident statistics to see if there are any patterns or common threads.
+
+`Python` 
+
+---
+
+
 
 ## Probability and Statistics
 
@@ -201,21 +212,7 @@ Build models that can classify handwritten digits. Explore image classification,
 
 ---
   
-  
-  
-## Other
-
----
-
-[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
-
-An analysis of airplane accident statistics to see if there are any patterns or common threads.
-
-`Python` 
-
----
-
-
+ 
     
 ## Data Engineering
 
