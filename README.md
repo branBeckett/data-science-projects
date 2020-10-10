@@ -72,6 +72,14 @@ Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
 
 ---
 
+[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
+
+An analysis of airplane accident statistics to see if there are any patterns or common threads.
+
+`Python` 
+
+---
+
 
 
 ## Working with Data Sources
@@ -97,14 +105,6 @@ Find the best content to write about for a company that creates data science boo
 Determine what content a data science education company should create based on data from Data Science Stack Exchange.
 
 `SQL`
-
----
-
-[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
-
-An analysis of airplane accident statistics to see if there are any patterns or common threads.
-
-`Python` 
 
 ---
 
