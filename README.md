@@ -25,7 +25,7 @@ Analysis of Ask HN and Show HN posts from Hacker News to determine what type of 
 
 [**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
-Analysis of used car listings from Germany's eBay Kleineanzeigen.
+Analysis of used car listings from the German classifieds site eBay Kleineanzeigen.
 
 `Python` `Pandas`
 
