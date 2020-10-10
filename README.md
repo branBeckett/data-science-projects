@@ -16,7 +16,7 @@ Analysis to find the most profitable categories of free apps on the Apple App St
 
 [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
-Analysis on Ask HN and Show HN posts from Hacker News to determine what type of posts and at what time posts receive the most attention.
+Analysis of Ask HN and Show HN posts from Hacker News to determine what type of posts receive the most attention and at what time.
 
 `Python`
 
