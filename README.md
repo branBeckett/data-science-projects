@@ -51,9 +51,9 @@ An exploration of the gender gap in college degrees across the US.
 [**Clean and Analyze Employee Exit Surveys**](https://github.com/branBeckett/data-science-portfolio/blob/master/employee-exit-surveys/employee-exit-surveys.ipynb)
 
 
-An analysis of exit surveys from employees of the Department of Education, Training, and Employment (DEYE) and the Technical and Further Education Body (TAFE) of Quensland, Australia.
+The cleaning and analysis of exit survey data from employees of the Department of Education, Training, and Employment (DETE), and the Technical and Further Education Body (TAFE) of Queensland, Australia.
 
-`Python` `Pandas` `NumPy`
+`Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
