@@ -67,7 +67,7 @@ A look at whether standardized tests like the SAT are unfair to certain demograp
 
 [**Star Wars Survey**](https://github.com/branBeckett/data-science-portfolio/blob/master/star-wars-survey/star-wars-survey.ipynb)
 
-Analysis on data from Star Wars fans on the Star Wars Episode 1 - 6 movies.
+An analysis of Star Wars survey data from fans of Star Wars movies.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
