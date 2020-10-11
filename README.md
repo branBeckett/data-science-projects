@@ -61,7 +61,7 @@ The cleaning and analysis of exit survey data from employees of the Department o
 
 A look at whether standardized tests like the SAT are unfair to certain demographics by investigating the correlations between SAT scores in New York City high schools.
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Regex` `Basecamp`
+`Python` `Pandas` `NumPy` `Matplotlib` `Regex`
 
 ---
 
