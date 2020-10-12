@@ -135,9 +135,9 @@ An analysis to determine the best markets to advertise an e-learning product in.
 
 [**Mobile App for Lottery Addiction**](https://github.com/branBeckett/data-science-portfolio/blob/master/lottery-addiction-app/lottery-addiction-app.ipynb)
 
-Description
+Work through probability calculations to contribute to the development of a mobile app that aims to prevent and treat lottery addiction by helping people better estimate their chances of winning.
 
-`Python`
+`Python` `Pandas`
 
 ---
 
