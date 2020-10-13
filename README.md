@@ -165,7 +165,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-projects/blob/master/predicting-car-prices/predicting-car-prices.ipynb)
 
-In progress...
+Use the k-nearest neighbors algorithm to predict a car's market price using data containing technical attributes for various cars.
 
 `Python`
 
@@ -181,7 +181,7 @@ Explore ways to build and improve a linear regression model by working with hous
 
 [**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
 
-In progress...
+Work with data from the S&P500 Index to develop a predictive model.
 
 `Python`
 
