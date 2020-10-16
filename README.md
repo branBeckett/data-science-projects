@@ -286,3 +286,5 @@ Currently in progress.
 `Python`
 
 ---
+
+## Thank you for checking out my work! Feel free to reach out to me by email or through Twitter anytime.
