@@ -73,14 +73,6 @@ An analysis of Star Wars survey data from fans of Star Wars movies.
 
 ---
 
-[**Investigating Airplane Accidents**](https://github.com/branBeckett/data-science-portfolio/tree/master/airplane-accidents)
-
-An analysis of airplane accident statistics to see if there are any patterns or common threads.
-
-`Python` 
-
----
-
 
 
 ## Working with Data Sources
