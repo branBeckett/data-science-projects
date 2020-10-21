@@ -89,7 +89,7 @@ Exploration of the CIA World Factbook database that contains demographic informa
 
 [**Answering Business Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/answering-business-questions/answering-business-questions.ipynb)
 
-An analysis to find the best data science content to write about for a company that creates data science books, online articles, videos, or interactive text-based platforms.
+Use SQL to answer business questions using a database that contains information about a fictional digital music store that is contained within 11 tables.
 
 `Python` `SQL`
 
@@ -97,7 +97,7 @@ An analysis to find the best data science content to write about for a company t
 
 [**Popular Data Science Questions**](https://github.com/branBeckett/data-science-portfolio/blob/master/data-science-questions/data-science-questions.ipynb)
 
-Determine what content a data science education company should create based on data from Data Science Stack Exchange.
+An analysis to determine the best data science content to write about for an education company that creates data science books, online articles, videos, or interactive text-based platforms, all based on data that we'll extract from the Data Science Stack Exchange.
 
 `SQL`
 
