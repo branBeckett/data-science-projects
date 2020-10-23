@@ -181,9 +181,9 @@ Work with data from the S&P500 Index to develop a predictive model.
 
 [**Predicting Bike Rentals**](https://github.com/branBeckett/data-science-portfolio/blob/master/bike-rentals/bike-rentals.ipynb)
 
-Predict the number of bikes that people rent in a given hour by creating several machine learning models and evaluating their performance.
+Predict the number of bikes that people rent in a given hour by creating several machine learning models––linear regression, decision tree, random forest––and evaluating their performance. 
 
-`Python`
+`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
 ---
 
@@ -273,10 +273,10 @@ Currently in progress.
 
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
 
-Currently in progress.
+> Currently in progress.
 
-`Python`
+> `Python`
 
 ---
 
-#### Thank you for checking out my work! Want to collaborate on a project? Need advice? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime. 
+### Thank you for checking out my work! Want to collaborate on a project? Need advice? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime. 
