@@ -10,7 +10,7 @@ This repository contains 30 data science, machine learning, and data engineering
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
-Analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
+An analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
 
 `Python`
 
@@ -18,7 +18,7 @@ Analysis to find the most profitable categories of free apps on the Apple App St
 
 [**Exploring Hacker News Posts**](https://github.com/branBeckett/data-science-portfolio/blob/master/exploring-hacker-news/hacker-news-posts.ipynb)
 
-Analysis of Ask HN and Show HN posts from Hacker News to determine what type of posts receive the most attention and at what time.
+An analysis of Ask HN and Show HN posts from Hacker News to determine what type of posts receive the most attention and at what time.
 
 `Python`
 
@@ -26,7 +26,7 @@ Analysis of Ask HN and Show HN posts from Hacker News to determine what type of 
 
 [**Exploring eBay Car Sales**](https://github.com/branBeckett/data-science-portfolio/blob/master/ebay-car-sales/ebay-car-sales.ipynb)
 
-Analysis of used car listings from the German classifieds site eBay Kleineanzeigen.
+An analysis of used car listings from the German classifieds site eBay Kleineanzeigen.
 
 `Python` `Pandas` `NumPy`
 
@@ -111,7 +111,7 @@ An analysis to determine the best data science content to write about for an edu
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-projects/blob/master/fandango-movie-ratings/fandango-movie-ratings.ipynb)
 
-Analysis of movie ratings to determine whether or not Fandango has changed their biased rating system in 2016.
+An analysis of movie ratings to determine whether or not Fandango has changed their biased rating system in 2016.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
@@ -119,7 +119,7 @@ Analysis of movie ratings to determine whether or not Fandango has changed their
 
 [**Finding the Best Markets to Advertise In**](https://github.com/branBeckett/data-science-portfolio/blob/master/best-advertising-markets/best-advertising-markets.ipynb)
 
-An analysis to determine the best markets to advertise an e-learning product in.
+An analysis of survey data from new coders to determine the best markets to advertise a company's online programming courses in.
 
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
