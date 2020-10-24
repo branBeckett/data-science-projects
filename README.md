@@ -279,4 +279,5 @@ Currently in progress.
 
 ---
 
-### Thank you for checking out my work! Want to collaborate on a project? Need advice? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime. 
+**Thank you for checking out my work!
+Want to collaborate on a project? Need advice? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime.**
