@@ -159,7 +159,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 
 Use the k-nearest neighbors algorithm to predict a car's market price using data containing technical attributes for various cars.
 
-`Python`
+`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
 
 ---
 
