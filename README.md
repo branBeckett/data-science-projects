@@ -171,11 +171,11 @@ Explore ways to build and improve a linear regression model by working with hous
 
 ---
 
-[**Predicting the Stock Market**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-market/stock-market.ipynb)
+[**Predicting the Stock Market**](https://github.com/branBeckett/data-science-projects/tree/master/stock-market)
 
-Work with data from the S&P500 Index to develop a predictive model.
+Work with historical data from the S&P500 Index to develop a linear regression model that predicts future S&P500 prices.
 
-`Python`
+`Python` `Pandas` `scikit-learn`
 
 ---
 
