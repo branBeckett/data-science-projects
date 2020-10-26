@@ -137,7 +137,7 @@ Work through probability calculations to contribute to the development of a mobi
 
 Learn about the practical side of the multinominal Naive Bayes algorithm by building a spam filter for SMS messages that classifies new messages as spam or non-spam with an accuracy greater than 95%.
 
-`Python`
+`Python` `Pandas` `Regex`
 
 ---
 
