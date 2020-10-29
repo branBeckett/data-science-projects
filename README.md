@@ -167,7 +167,7 @@ Use the k-nearest neighbors algorithm to predict a car's market price using data
 
 Explore ways to build and improve a linear regression model by working with housing data for the city of Ames, Iowa from 2006 to 2010.
 
-`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
+`Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn` `regex`
 
 ---
 
