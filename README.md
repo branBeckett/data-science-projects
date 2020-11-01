@@ -217,7 +217,7 @@ Build models that can classify handwritten digits. Explore image classification,
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
 
-Currently in progress.
+Building fast queries on a CSV.
 
 `Python`
 
@@ -225,7 +225,7 @@ Currently in progress.
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
-Currently in progress. Set up a database from scratch using Boston crime data.
+Set up a database from scratch using Boston crime data.
 
 `Python`
 
@@ -233,7 +233,7 @@ Currently in progress. Set up a database from scratch using Boston crime data.
 
 [**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
 
-Currently in progress.
+Optimize dataframes. 
 
 `Python`
 
@@ -241,7 +241,7 @@ Currently in progress.
 
 [**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
-Currently in progress.
+An analysis of startup fundraising deals. 
 
 `Python`
 
@@ -249,7 +249,7 @@ Currently in progress.
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-Currently in progress.
+An analysis of Wikipedia pages. 
 
 `Python`
 
@@ -257,7 +257,7 @@ Currently in progress.
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-Currently in progress.
+An analysis of stock prices. 
 
 `Python`
 
@@ -265,7 +265,7 @@ Currently in progress.
 
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
-Currently in progress.
+Implement a key value database. 
 
 `Python`
 
@@ -273,7 +273,7 @@ Currently in progress.
 
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
 
-Currently in progress.
+Build a hacker news pipeline. 
 
 `Python`
 
