@@ -217,7 +217,7 @@ Build models that can classify handwritten digits. Explore image classification,
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
 
-Building fast queries on a CSV.
+Create a class with methods that answer business questions about online inventory, while focussing on time and space complexity of algorithms, preprocessing data to speed up the algorithms, efficiently sorting data and searching that data, and using efficient algorithms.
 
 `Python`
 
