@@ -99,7 +99,7 @@ Use SQL to answer business questions using a database that contains information 
 
 An analysis to determine the best data science content to write about for an education company that creates data science books, online articles, videos, or interactive text-based platforms, all based on data that we'll extract from the Data Science Stack Exchange.
 
-`Python` `Pandas` 'Numpy` `SQL`
+`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
 
