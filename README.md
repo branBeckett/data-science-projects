@@ -235,7 +235,7 @@ Set up a database from scratch using Boston crime data.
 
 Work with financial lending data as chunked dataframes to optimize memory usage.
 
-`Python`
+`Python` `Pandas` `NumPy`
 
 ---
 
