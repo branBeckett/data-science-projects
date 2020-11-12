@@ -257,7 +257,7 @@ An analysis of Wikipedia pages.
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-An analysis of stock prices. 
+An analysis of stock market data from Yahoo Finance.
 
 `Python`
 
