@@ -273,9 +273,9 @@ Implement a key value database.
 
 [**Hacker News Pipeline**](https://github.com/branBeckett/data-science-portfolio/blob/master/hacker-news-pipeline/hacker-news-pipeline.ipynb)
 
-Build a hacker news pipeline. 
+Build a hacker news pipeline from a JSON API that will filter, clean, aggregate, and summarize data.
 
-`Python`
+`Python` `Pipeline`
 
 ---
 
