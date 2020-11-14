@@ -249,7 +249,7 @@ An analysis of startup fundraising deals.
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-An analysis of Wikipedia pages. 
+An analysis of large amounts of Wikipedia pages.
 
 `Python`
 
