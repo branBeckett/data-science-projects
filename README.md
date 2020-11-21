@@ -251,7 +251,7 @@ An analysis of startup fundraising deals.
 
 An analysis of 54MB worth of Wikipedia pages to find patterns in writing style and content.
 
-`Python` `OS` `BeautifulSoup`
+`Python` `RegEx` `OS` `BeautifulSoup`
 
 ---
 
