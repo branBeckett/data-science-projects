@@ -279,5 +279,6 @@ Build a hacker news pipeline from a JSON API that will filter, clean, aggregate,
 
 ---
 
-**Thanks for checking out my work.
-Want to collaborate on a project? In Berlin and want to grab some :coffee:? Feel free to reach out to me anytime.**
+**Thank you for checking out my work.**
+
+**Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me any time.**
