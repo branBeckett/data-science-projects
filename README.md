@@ -1,4 +1,4 @@
-# Brandon Beckett's Data Science Projects 2020
+# Data Science Projects 2020
 
 
 This repository contains 30 data science, machine learning, and data engineering projects completed in 2020.
