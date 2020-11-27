@@ -241,9 +241,9 @@ Work with financial lending data as chunked dataframes to optimize memory usage.
 
 [**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
-An analysis of startup fundraising deals. 
+An analysis of startup fundraising deals using a large database from Crunchbase.com.
 
-`Python`
+`Python` `Pandas` `SQL`
 
 ---
 
