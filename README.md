@@ -1,7 +1,8 @@
 # Data Science Projects 2020
 
 
-This repository contains 30 data science, machine learning, and data engineering projects completed in 2020.
+This repository contains 30 data science, machine learning, and data engineering projects that I've completed in 2020.
+
 
 
 ## Data Analysis and Visualization
@@ -281,4 +282,4 @@ Build a hacker news pipeline from a JSON API that will filter, clean, aggregate,
 
 #### Thank you for checking out my work!
 
-Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me any time.
+Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me anytime.
