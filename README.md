@@ -1,7 +1,7 @@
 # Data Science Projects 2020
 
 
-This repository contains 30 data science, machine learning, and data engineering projects that I've completed in 2020.
+30 data science, machine learning, and data engineering projects that I've completed in 2020.
 
 
 
