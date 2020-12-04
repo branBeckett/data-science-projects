@@ -260,7 +260,7 @@ An analysis of 54MB worth of Wikipedia pages to find patterns in writing style a
 
 An analysis of stock market data from Yahoo Finance.
 
-`Python` `Pandas` 
+`Python` `Pandas` `Pickle`
 
 ---
 
