@@ -276,7 +276,7 @@ Implement a key value database.
 
 Build a hacker news pipeline from a JSON API that will filter, clean, aggregate, and summarize data.
 
-`Python` `Pipeline`
+`Python` `Pipeline` `io` `JSON`
 
 ---
 
