@@ -76,7 +76,7 @@ An analysis of Star Wars survey data from fans of Star Wars movies.
 
 
 
-## Working with Data Sources
+## Working with Data Sources & SQL
 
 ---
 
