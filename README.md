@@ -234,7 +234,7 @@ Set up a database from scratch using Boston crime data.
 
 [**Practice Optimizing Dataframes and Processing in Chunks**](https://github.com/branBeckett/data-science-portfolio/blob/master/optimizing-dataframes/optimizing-dataframes.ipynb)
 
-Work with large amount of financial lending data in chunks and optimize the memory usage.
+Work with large financial lending dataset in chunks and optimize the memory usage.
 
 `Python` `Pandas` `NumPy`
 
