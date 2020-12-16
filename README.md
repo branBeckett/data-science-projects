@@ -226,9 +226,9 @@ Create a class with methods that answer business questions about online inventor
 
 [**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
 
-Set up a database from scratch using Boston crime data.
+Create a database from scratch using Boston crime data.
 
-`Python`
+`Python` `SQL` `Psycopg2`
 
 ---
 
