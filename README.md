@@ -228,7 +228,7 @@ Create a class with methods that answer business questions about online inventor
 
 Create a database from scratch using Boston crime data.
 
-`Python` `SQL` `Psycopg2`
+`Python` `SQL` `Psycopg2` `CSV`
 
 ---
 
