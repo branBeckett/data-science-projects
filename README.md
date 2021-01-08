@@ -266,7 +266,7 @@ An analysis of stock market data from Yahoo Finance.
 
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
-Implement a key value database. 
+Create a key-value database.
 
 `Python` `BTree`
 
