@@ -258,7 +258,7 @@ An analysis of extract text from Wikipedia pages to find patterns in writing sty
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-An analysis of stock market data from Yahoo Finance.
+An statistical analysis of large amounts of historical stock market data from Yahoo Finance.
 
 `Python` `Pandas` `Pickle`
 
