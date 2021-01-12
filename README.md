@@ -266,7 +266,7 @@ An statistical analysis of large amounts of historical stock market data from Ya
 
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
-Create a key-value database.
+Create a fully functional save-to-disk key-value store using a b-tree data structure.
 
 `Python` `BTree`
 
