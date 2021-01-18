@@ -3,7 +3,6 @@
 
 30 data science, machine learning, and data engineering projects that I've completed in 2020.  
 
-&nbsp
 
 ## Data Analysis and Visualization
 
@@ -72,7 +71,6 @@ An analysis of Star Wars survey data from fans of Star Wars movies.
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
----
 
 
 
