@@ -6,8 +6,6 @@
 
 ## Data Analysis and Visualization
 
----
-
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
 An analysis to find the most profitable categories of free apps on the Apple App Store and Google Play store.
