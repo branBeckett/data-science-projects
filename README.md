@@ -262,6 +262,14 @@ An statistical analysis of large amounts of historical stock market data from Ya
 
 ---
 
+[**Evaluating Numerical Expressions**](https://github.com/branBeckett/data-science-portfolio/blob/master/numerical-expressions/numerical-expressions.ipynb)
+
+In progress.
+
+`Python`
+
+---
+
 [**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
 Create a fully functional save-to-disk key-value store using a b-tree data structure.
