@@ -4,7 +4,9 @@
 31 data science, machine learning, and data engineering projects that I completed in 2020.  
 
 
-## Data Analysis and Visualization
+<center>## Data Analysis and Visualization</center>
+
+---
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
 
