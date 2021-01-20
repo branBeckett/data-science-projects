@@ -264,7 +264,7 @@ An statistical analysis of large amounts of historical stock market data from Ya
 
 [**Evaluating Numerical Expressions**](https://github.com/branBeckett/data-science-portfolio/blob/master/numerical-expressions/numerical-expressions.ipynb)
 
-In progress.
+In progress. Use a stack data structure to implement a function that can evaluate complex numerical expressions stored in a string.
 
 `Python`
 
