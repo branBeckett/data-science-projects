@@ -5,9 +5,8 @@
 
 
 <p align="center">
-  <b>## Data Analysis and Visualization</b>
-</p>
 ## Data Analysis and Visualization
+</p>
 
 ---
 
