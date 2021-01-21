@@ -4,9 +4,9 @@
 31 data science, machine learning, and data engineering projects that I completed in 2020.  
 
 
-<p align="center">
+---
+
 ## Data Analysis and Visualization
-</p>
 
 ---
 
