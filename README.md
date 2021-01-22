@@ -252,7 +252,7 @@ An analysis of startup fundraising deals using a large database from Crunchbase.
 
 An analysis of extract text from Wikipedia pages to find patterns in writing style and content.
 
-`Python` `RegEx` `OS` `BeautifulSoup`
+`Python` `Pandas` `OS` `Multiprocessing` `MapReduce`
 
 ---
 
