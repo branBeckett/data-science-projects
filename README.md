@@ -250,7 +250,7 @@ An analysis of startup fundraising deals using a large database from Crunchbase.
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-An analysis of extract text from Wikipedia pages to find patterns in writing style and content.
+In progress.
 
 `Python` `Pandas` `OS` `Multiprocessing` `MapReduce`
 
