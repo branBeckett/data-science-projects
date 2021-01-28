@@ -250,7 +250,7 @@ An analysis of startup fundraising deals using a large database from Crunchbase.
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-In progress.
+Analyze 54 megabytes of Wikipedia data by implementing a grep function to search textual data.
 
 `Python` `Pandas` `OS` `Multiprocessing` `MapReduce`
 
