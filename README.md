@@ -212,7 +212,7 @@ Build models that can classify handwritten digits. Explore image classification,
   
  
     
-## Data Engineering (In Progress)
+## Data Engineering
 
 ---
 
