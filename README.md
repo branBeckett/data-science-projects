@@ -7,7 +7,7 @@
 
 ---
 
-## Data Analysis and Visualization
+# Data Analysis and Visualization
 
 ---
 
@@ -77,7 +77,7 @@ An analysis of Star Wars survey data from fans of Star Wars movies.
 ---
 
 
-## Working with Data Sources & SQL
+# Working with Data Sources & SQL
 
 ---
 
@@ -107,7 +107,7 @@ An analysis to determine the best data science content to write about for an edu
 
 
 
-## Probability and Statistics
+# Probability and Statistics
 
 ---
 
@@ -153,7 +153,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 
 
 
-## Machine Learning
+# Machine Learning
 
 ---
 
@@ -199,7 +199,7 @@ A look at all the necessary steps when attempting a Kaggle competition. Here we'
 
 
 
-## Deep Learning
+# Deep Learning
 
 ---
 
@@ -213,7 +213,7 @@ Build models that can classify handwritten digits. Explore image classification,
   
  
     
-## Data Engineering
+# Data Engineering
 
 ---
 
