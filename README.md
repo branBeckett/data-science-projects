@@ -1,7 +1,6 @@
 # Data Science Projects 2020
 ### by Brandon Beckett
 
----
 
 31 data science, machine learning, and data engineering projects that I completed in 2020. To view each project, simply click on the title of the project, and it will take you to the corresponding Jupyter Notebook. 
 
