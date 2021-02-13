@@ -268,7 +268,7 @@ In progress. Use a stack data structure to implement a function that can evaluat
 
 Create a fully functional save-to-disk key-value store using a b-tree data structure.
 
-`Python` `BTree`
+`Python`
 
 ---
 
