@@ -216,9 +216,9 @@ Create a class with methods that answer business questions about online inventor
 
 ---
 
-[**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-portfolio/blob/master/crime-reports/crime-reports.ipynb)
+[**Building a Database for Crime Reports**](https://github.com/branBeckett/data-science-projects/blob/master/crime-reports-database/crime-reports-database.ipynb)
 
-Create a database from scratch using Boston crime data.
+Create a database from scratch using Boston crime data, create user groups, and assign proper privileges to those groups.
 
 `Python` `SQL` `Psycopg2` `CSV`
 
@@ -280,6 +280,6 @@ Build a hacker news pipeline from a JSON API that will filter, clean, aggregate,
 
 ---
 
-### Thank you for checking out my work!
+## Thank you for checking out my work!
 
 Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me anytime.
