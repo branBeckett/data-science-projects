@@ -242,7 +242,7 @@ An analysis of startup fundraising deals using a large database from Crunchbase.
 
 [**Analyzing Wikipedia Pages**](https://github.com/branBeckett/data-science-portfolio/blob/master/wikipedia-pages/wikipedia-pages.ipynb)
 
-Analyze 54 megabytes of Wikipedia data by implementing a grep function to search textual data.
+An analysis of 54 megabytes of Wikipedia data by implementing a grep function to search textual data.
 
 `Python` `Pandas` `OS` `Multiprocessing` `MapReduce`
 
@@ -250,7 +250,7 @@ Analyze 54 megabytes of Wikipedia data by implementing a grep function to search
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-An statistical analysis of large amounts of historical stock market data from Yahoo Finance.
+An statistical analysis of large quantity of historical stock market data from Yahoo Finance.
 
 `Python` `Pandas` `Pickle`
 
