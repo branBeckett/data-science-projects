@@ -205,7 +205,7 @@ Build models that can classify handwritten digits. Explore image classification,
 ---
   
     
-# Data Engineering - In Progress
+# Data Engineering
 
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
@@ -232,7 +232,7 @@ Work with large financial lending dataset in chunks and optimize the memory usag
 
 ---
 
-[**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
+[**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb) - In Progress
 
 An analysis of startup fundraising deals using a large database from Crunchbase.com.
 
@@ -264,7 +264,7 @@ Use a stack data structure to implement a function that can evaluate complex num
 
 ---
 
-[**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
+[**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb) - In Progress
 
 Create a fully functional save-to-disk key-value store using a b-tree data structure.
 
