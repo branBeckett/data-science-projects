@@ -1,4 +1,4 @@
-# Data Science Projects 2020
+![DS-Banner](https://github.com/branBeckett/data-science-projects/blob/master/images/DS_Banner.jpg)
 ### by Brandon Beckett
 
 
