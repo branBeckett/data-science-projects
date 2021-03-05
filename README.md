@@ -232,7 +232,7 @@ Work with large financial lending dataset in chunks and optimize the memory usag
 
 ---
 
-[**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb) - In Progress
+[**Analyzing Startup Fundraising Deals from Crunchbase**](https://github.com/branBeckett/data-science-portfolio/blob/master/startup-fundraising-deals/startup-fundraising-deals.ipynb)
 
 An analysis of startup fundraising deals using a large database from Crunchbase.com.
 
