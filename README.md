@@ -264,7 +264,7 @@ Use a stack data structure to implement a function that can evaluate complex num
 
 ---
 
-[**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb) - In Progress
+[**Implementing a Key-Value Database**](https://github.com/branBeckett/data-science-portfolio/blob/master/key-value-database/key-value-database.ipynb)
 
 Create a fully functional save-to-disk key-value store using a b-tree data structure.
 
