@@ -1,186 +1,125 @@
+import bisect
+
 class Node:
-    def __init__(self, keys=None, children=None):
+
+    def __init__(self, keys=None, values=None, children=None, parent=None):
         self.keys = keys or []
+        self.values = values or []
+        self.parent = parent
+        self.set_children(children)
+
+    def set_children(self, children):
         self.children = children or []
+        for child in self.children:
+            child.parent = self
 
     def is_leaf(self):
         return len(self.children) == 0
 
-    def __repr__(self):
-        # Helpful method to keep track of Node keys.
-        return "<Node: {}>".format(self.keys)
+    def contains_key(self, key):
+        return key in self.keys
+    
+    def get_value(self, key):
+        for i, k in enumerate(self.keys):
+            if k == key:
+                return self.values[i]
+        return None
+
+    def get_insert_index(self, key):
+        return bisect.bisect(self.keys, key)
+
+    def insert_entry(self, key, value):
+        insert_index = self.get_insert_index(key)
+        self.keys.insert(insert_index, key)
+        self.values.insert(insert_index, value)
+        return insert_index
+
+    def split(self):
+        if self.parent is None:
+            return self.split_no_parent()
+        return self.split_with_parent()
+
+    def split_no_parent(self):
+        split_index = len(self) // 2
+        key_to_move_up = self.keys[split_index]
+        value_to_move_up = self.values[split_index]
+        # Create right node
+        right_node = Node(self.keys[split_index+1:], self.values[split_index+1:], self.children[split_index+1:])
+        # Update left node (self)
+        self.keys = self.keys[:split_index]
+        self.values = self.values[:split_index]
+        self.children = self.children[:split_index+1]
+        # Create parent
+        parent = Node([key_to_move_up], [value_to_move_up], [self, right_node])
+        return parent
+
+    def insert_child(self, insert_index, child): 
+        self.children.insert(insert_index, child)
+        child.parent = self
+
+    def split_with_parent(self): 
+        split_index = len(self) // 2
+        key_to_move_up = self.keys[split_index]
+        value_to_move_up = self.values[split_index]
+        # Create right node
+        right_node = Node(self.keys[split_index+1:], self.values[split_index+1:], self.children[split_index+1:])
+        # Update left node (self)
+        self.keys = self.keys[:split_index]
+        self.values = self.values[:split_index]
+        self.children = self.children[:split_index+1]
+        # Add new child to parent
+        key_insert_index = self.parent.insert_entry(key_to_move_up, value_to_move_up)
+        self.parent.insert_child(key_insert_index + 1, right_node)
+        return self.parent
+
+    def __len__(self):
+        return len(self.values)
+
 
 class BTree:
-    def __init__(self, t):
-        self.t = t
-        self.root = None
 
-    def insert_multiple(self, keys):
-        for key in keys:
-            self.insert(key)
+    def __init__(self, split_threshold):
+        self.root = Node()
+        self.split_threshold = split_threshold 
+        self.height = 0
+        self.size = 0
 
-    def insert(self, key):
-        if not self.root:
-            self.root = Node(keys=[key])
-            return
-
-        if len(self.root.keys) == 2*self.t - 1:
-            old_root = self.root
-            self.root = Node()
-            left, right, new_key = self.split(old_root)
-            self.root.keys.append(new_key)
-            self.root.children.append(left)
-            self.root.children.append(right)
-
-        self.insert_non_full(self.root, key)
-
-    def insert_non_full(self, node, key):
-        if node.is_leaf():
-            index = 0
-            for k in node.keys:
-                if key > k: index += 1
-                else: break
-            node.keys.insert(index, key)
-            return
-
-        index = 0
-        for k in node.keys:
-            if key > k: index += 1
-            else: break
-        if len(node.children[index].keys) == 2*self.t - 1:
-            left_node, right_node, new_key = self.split(node.children[index])
-            node.keys.insert(index, new_key)
-            node.children[index] = left_node
-            node.children.insert(index+1, right_node)
-            if key > new_key:
-                index += 1
-
-        self.insert_non_full(node.children[index], key)
-
-    def split(self, node):
-        left_node = Node(
-            keys=node.keys[:len(node.keys)//2],
-            children=node.children[:len(node.children)//2+1]
-        )
-        right_node = Node(
-            keys=node.keys[len(node.keys)//2:],
-            children=node.children[len(node.children)//2:]
-        )
-        key = right_node.keys.pop(0)
-        return left_node, right_node, key
-
-    def search(self, node, term):
-        if not self.root:
+    def __len__(self):
+        return self.size
+    
+    def _find_node(self, current_node, key):
+        if current_node.contains_key(key):
+            return current_node
+        if current_node.is_leaf():
             return None
-        index = 0
-        for key in node.keys:
-            if key == term:
-                return key.value
-            if term > key:
-                index += 1
-        if node.is_leaf():
+        child_index = current_node.get_insert_index(key) 
+        return self._find_node(current_node.children[child_index], key)
+    
+    def contains(self, key):
+        node = self._find_node(self.root, key)
+        if node is None:
+            return False
+        return True
+    
+    def _add(self, current_node, key, value):
+        if current_node.is_leaf(): 
+            current_node.insert_entry(key, value) 
+        else:
+            child_index = current_node.get_insert_index(key) 
+            self._add(current_node.children[child_index], key, value)
+        if len(current_node) > self.split_threshold: 
+            parent = current_node.split()  
+            if current_node == self.root: 
+                self.root = parent
+                self.height += 1
+                
+    def add(self, key, value):
+        self._add(self.root, key, value)
+        self.size += 1
+        
+    def get_value(self, key):
+        node = self._find_node(self.root, key)
+        if node is None:
             return None
-        return self.search(node.children[index], term)
+        return node.get_value(key)
 
-    def greater_than(self, node, term, upper_bound=None, inclusive=False):
-        if not self.root:
-            return []
-        index = 0
-        values = []
-        for key in node.keys:
-            if upper_bound is not None:
-                if inclusive and key == upper_bound:
-                    values.append(key)
-                if key >= upper_bound:
-                    break
-            if term > key:
-                index += 1
-                continue
-            if inclusive and key == term:
-                values.append(key)
-            if key > term:
-                values.append(key)
-            if not node.is_leaf():
-                values += self.greater_than(
-                    node.children[index],
-                    term,
-                    upper_bound,
-                    inclusive
-                )
-            index += 1
-        if not node.is_leaf():
-            values += self.greater_than(
-                node.children[index],
-                term,
-                upper_bound,
-                inclusive
-            )
-        return values
-
-    def less_than(self, node, term, lower_bound=None, inclusive=False):
-        if not self.root:
-            return []
-        index = 0
-        values = []
-        for key in node.keys:
-            if lower_bound is not None:
-                if inclusive and key == lower_bound:
-                    values.append(key)
-                if key < lower_bound:
-                    index += 1
-                    continue
-            if inclusive and key == term:
-                values.append(key)
-            if key < term:
-                values.append(key)
-            if not node.is_leaf():
-                values += self.less_than(
-                    node.children[index],
-                    term,
-                    lower_bound,
-                    inclusive
-                )
-            index += 1
-
-        if not node.is_leaf() and key <= term:
-            values += self.less_than(
-                node.children[index],
-                term,
-                lower_bound,
-                inclusive
-            )
-        return values
-
-
-class NodeKey:
-    def __init__(self, key, value):
-        self.key = key
-        self.value = value
-
-    def __repr__(self):
-        return '<NodeKey: ({}, {})>'.format(self.key, self.value)
-
-    def __eq__(self, other):
-        if isinstance(other, self.__class__):
-            return self.key == other.key
-        return self.key == other
-
-    def __gt__(self, other):
-        if isinstance(other, self.__class__):
-            return self.key > other.key
-        return self.key > other
-
-    def __ge__(self, other):
-        if isinstance(other, self.__class__):
-            return self.key >= other.key
-        return self.key >= other
-
-    def __lt__(self, other):
-        if isinstance(other, self.__class__):
-            return self.key < other.key
-        return self.key < other
-
-    def __le__(self, other):
-        if isinstance(other, self.__class__):
-            return self.key <= other.key
-        return self.key <= other
