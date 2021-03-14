@@ -2,7 +2,7 @@
 ### by Brandon Beckett
 
 
-31 data science, machine learning, and data engineering projects that I completed in 2020. To view each project, simply click on the title of the project and it will take you to the corresponding Jupyter Notebook. 
+31 data science, machine learning, and data engineering projects that I completed in 2020. To view each project, simply click on the title of the project and it will take you to the corresponding Jupyter notebook. 
 
 
 ---
@@ -280,6 +280,4 @@ Build a hacker news pipeline from a JSON API that will filter, clean, aggregate,
 
 ---
 
-## Thank you for checking out my work!
-
-Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me anytime.
+Thank you for checking out my work! Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me anytime.
