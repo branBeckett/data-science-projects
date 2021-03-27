@@ -220,7 +220,7 @@ Create a class with methods that answer business questions about online inventor
 
 Create a database from scratch using Boston crime data, create user groups, and assign proper privileges to those groups.
 
-`Python` `SQL` `Psycopg2` `CSV`
+`Python` `SQL` `Psycopg2` `CSV` `Postgres`
 
 ---
 
@@ -280,4 +280,4 @@ Build a hacker news pipeline from a JSON API that will filter, clean, aggregate,
 
 ---
 
-Thank you for checking out my work! Interested in collaborating on a project? In Berlin and want to grab a :coffee:? Reach out to me anytime.
+Thank you for checking out my work! Are you interested in collaborating on a project? In Berlin and want to grab a :coffee:? Feel free to reach out to me anytime.
