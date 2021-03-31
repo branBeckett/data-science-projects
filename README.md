@@ -1,5 +1,5 @@
 ![DS-Banner](https://github.com/branBeckett/data-science-projects/blob/master/images/DS_Banner.jpg)
-### by Brandon Beckett
+by Brandon Beckett
 
 
 31 data science, machine learning, and data engineering projects that I completed in 2020. To view each project, simply click on the title of the project and it will take you to the corresponding Jupyter notebook. 
@@ -7,7 +7,7 @@
 
 ---
 
-# DATA ANALYSIS AND VISUALIZATION
+# 📊 DATA ANALYSIS AND VISUALIZATION
 
 
 [**Profitable Google Play and Apple App Profiles**](https://github.com/branBeckett/data-science-portfolio/blob/master/profitable-app-profiles/profitable-app-profiles.ipynb)
@@ -76,7 +76,7 @@ An analysis of Star Wars survey data from fans of Star Wars movies.
 ---
 
 
-# WORKING WITH DATA SOURCES AND SQL
+# 💾 WORKING WITH DATA SOURCES AND SQL
 
 
 [**Analyzing CIA Factbook Data**](https://github.com/branBeckett/data-science-portfolio/blob/master/cia-factbook-data/cia-factbook-data.ipynb)
@@ -105,7 +105,7 @@ An analysis to determine the best data science content to write about for an edu
 
 
 
-# PROBABILITY AND STATISTICS
+# 🧮 PROBABILITY AND STATISTICS
 
 
 [**Investigating Fandango Movie Ratings**](https://github.com/branBeckett/data-science-projects/blob/master/fandango-movie-ratings/fandango-movie-ratings.ipynb)
@@ -149,7 +149,7 @@ Perform hypothesis testing to see if there are any good potential strategies for
 ---
 
 
-# MACHINE LEARNING
+# 🦾 MACHINE LEARNING
 
 
 [**Predicting Car Prices**](https://github.com/branBeckett/data-science-projects/blob/master/predicting-car-prices/predicting-car-prices.ipynb)
@@ -193,7 +193,7 @@ A look at all the necessary steps when attempting a Kaggle competition. Here we'
 ---
 
 
-# DEEP LEARNING
+# 🤖 DEEP LEARNING
 
 
 [**Building a Handwritten Digits Classifier**](https://github.com/branBeckett/data-science-portfolio/blob/master/handwritten-digits-classifier/handwritten-digits-classifier.ipynb)
@@ -205,7 +205,7 @@ Build models that can classify handwritten digits. Explore image classification,
 ---
   
     
-# DATA ENGINEERING
+# 🛠 DATA ENGINEERING
 
 
 [**Building Fast Queries on a CSV**](https://github.com/branBeckett/data-science-portfolio/blob/master/building-fast-queries/building-fast-queries.ipynb)
