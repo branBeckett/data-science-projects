@@ -134,7 +134,7 @@ Work through probability calculations to contribute to the development of a mobi
 
 [**Building a Spam Filter with Naive Bayes**](https://github.com/branBeckett/data-science-projects/blob/master/building-spam-filter/building-spam-filter-with-naive-bayes.ipynb)
 
-Learn about the practical side of the multinominal Naive Bayes algorithm by building a spam filter for SMS messages that classifies new messages as spam or non-spam with an accuracy greater than 95%.
+Learn about the practical side of the multinomial Naive Bayes algorithm by building a spam filter for SMS messages that classifies new messages as spam or non-spam with an accuracy greater than 95%.
 
 `Python` `Pandas` `Regex`
 
@@ -250,7 +250,7 @@ An analysis of 54 megabytes of Wikipedia data by implementing a grep function to
 
 [**Analyzing Stock Prices**](https://github.com/branBeckett/data-science-portfolio/blob/master/stock-prices/stock-prices.ipynb)
 
-An statistical analysis of large quantity of historical stock market data from Yahoo Finance.
+A statistical analysis of large quantity of historical stock market data from Yahoo Finance.
 
 `Python` `Pandas` `Pickle`
 
